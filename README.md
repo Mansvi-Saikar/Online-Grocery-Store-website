@@ -23,3 +23,8 @@ Backend
 Database
 - MySQL
   XAMPP Server
+
+## Home Page Image
+
+<img width="1917" height="1014" alt="Screenshot 2026-03-12 092513" src="https://github.com/user-attachments/assets/b217f26d-4f7b-41ce-a02d-26dfda2a3331" />
+
